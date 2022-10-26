@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CarlEthGoy
+- 👀 I’m interested in new technologies, software and web development, devsecops...
+- 🌱 I’m currently learning NOSQL graph database, many proof of concept that i'm building right now as well
+- 💞️ I’m looking to collaborate on anything that will improve my knowledge of development
+- 📫 How to reach me on discord : n y u#0036
